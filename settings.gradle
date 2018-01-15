@@ -1,0 +1,4 @@
+rootProject.name = 'Blog'
+rootProject.name = 'Blog'
+include 'web-pc'
+
